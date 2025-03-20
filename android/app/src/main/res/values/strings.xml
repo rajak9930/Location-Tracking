@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">myproject</string>
+    <string name="default_notification_channel_id">my_channel</string>
+
 </resources>

@@ -20,5 +20,5 @@ This is a React Native application that tracks the user's location every 30 seco
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/rajak9930/Location-Tracking
+  
