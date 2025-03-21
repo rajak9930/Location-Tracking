@@ -13,7 +13,6 @@ This is a React Native application that tracks the user's location every 30 seco
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js installed on your machine.
 - React Native CLI installed.
 - Android Studio or Xcode for Android/iOS development.
 
