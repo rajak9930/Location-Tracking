@@ -24,7 +24,7 @@
       android:supportsRtl="true">
       <meta-data
     android:name="com.google.android.geo.API_KEY"
-    android:value=""/>
+    android:value="enter your google_maps_key"/>
 <service 
   android:name="com.marianhello.bgloc.LocationService"
   android:foregroundServiceType="location"
